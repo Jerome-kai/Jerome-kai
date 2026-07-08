@@ -37,6 +37,12 @@ What drives me is the space where **mechanics meets electronics and code**: desi
 | 🚗 **Driving school website** | A real website for a real client |
 | 🎮 **Twine game** | An interactive fiction game, playable in the browser |
 
+## 📂 My repositories
+
+- 📷 **[sickcamera](https://github.com/Jerome-kai/sickcamera)** `Python` — my DIY AI camera project: an adaptation of *imggencam* for my own specific hardware. Point it at the world, and generative AI reimagines what it sees.
+- 🌐 **[Jerome-kai.github.io](https://github.com/Jerome-kai/Jerome-kai.github.io)** `HTML/CSS` — the source of [my personal website](https://jerome-kai.github.io/): who I am, my projects, skills, and CV.
+- 😄 **[sigma](https://github.com/Jerome-kai/sigma)** `HTML` — a [meme-filled prank site](https://sigma-omega-ten.vercel.app) I made to welcome a friend to university. Absolute brainrot, zero regrets.
+
 ## 💻 Toolbox
 
 **Code** — Python · SQL · Java · HTML/CSS · PHP · G-code
