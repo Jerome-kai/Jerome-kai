@@ -16,7 +16,7 @@
 
 ## 🙋 About me
 
-I'm a third-year engineering student at the **Université de Technologie de Compiègne** (2023–2028), where I study mechanical engineering as a recipient of the **France Excellence Major scholarship**. Before that, I grew up between two cultures at the Lycée Français de Shanghai — which is why I'm equally at home in French and Mandarin.
+I'm a third-year engineering student at the **Université de Technologie de Compiègne** (2023–2028), where I study mechanical engineering. Before that, I grew up between two cultures at the Lycée Français de Shanghai — which is why I'm equally at home in French and Mandarin.
 
 What drives me is the space where **mechanics meets electronics and code**: designing a part in CAD, soldering the PCB that controls it, and writing the software that brings it to life.
 
